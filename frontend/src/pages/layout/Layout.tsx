@@ -79,7 +79,7 @@ const Layout = () => {
                             aria-hidden="true"
                         />
                         <Link to="/" className={styles.headerTitleContainer}>
-                            <h1 className={styles.headerTitle}>Appvia Marketing Chatbot</h1>
+                            <h1 className={styles.headerTitle}>Marketing Copilot</h1>
                         </Link>
                     </Stack>
                     <Stack horizontal tokens={{ childrenGap: 4 }}>
